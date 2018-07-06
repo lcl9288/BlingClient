@@ -3,6 +3,7 @@ import { NavController } from 'ionic-angular';
 
 @Component({
   selector: 'page-home',
+  styleUrls: ['../../assets/css/iconfont.css'],
   template:`
     <ion-header>
       <ion-navbar>
